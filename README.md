@@ -1,4 +1,4 @@
 # web-view-comic
 Screenshot :
-![Alt text](1.png?raw=true "Optional Title")
-![Alt text](2.png?raw=true "Optional Title 2")
+![Alt text](relative/path/to/src/Images/1.png?raw=true "Optional Title")
+![Alt text](relative/path/to/src/Images/2.png?raw=true "Optional Title 2")
